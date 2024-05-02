@@ -26,11 +26,11 @@ void DispResult(int *s, int *kazu){
 // コールバック関数を呼び出す
 void setTimeout( PFunc p, int second, int kazu){
 
-	puts("さて結果は…\n");
+	puts("さて結果は…");
 
 	for (int i = 0; i < second; i++) {
 		Sleep(1000);
-		printf("%d...\n",second-i);
+		printf(" %d...\n",second-i);
 	}
 
 	p(&second,&kazu);
@@ -45,12 +45,14 @@ int main(){
 	printf("丁（偶数）ならゼロ、半（奇数）なら1を入力してください\n");
 	scanf_s("%d",&kazu);
 
-	if (kazu == 0) {
-		puts("あなたは丁（偶数）を選びましたね？");
-	}
-	else {
-		puts("あなたは半（奇数）を選びましたね？");
-	}
+	[=]() {
+		if (kazu == 0) {
+			puts("あなたは丁（偶数）を選びましたね？");
+		}
+		else {
+			puts("あなたは半（奇数）を選びましたね？");
+		}
+	}();
 
 	PFunc p;
 	p = DispResult;
