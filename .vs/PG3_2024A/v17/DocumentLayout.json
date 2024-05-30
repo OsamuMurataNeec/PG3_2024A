@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\murat\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_2024A\\",
+  "WorkspaceRootPath": "C:\\Users\\GSuser\\Desktop\\PG3_2024A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6AECF06-E289-41B0-81D2-673B0F01C4CE}|PG3_2024A.vcxproj|C:\\Users\\murat\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_2024A\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A6AECF06-E289-41B0-81D2-673B0F01C4CE}|PG3_2024A.vcxproj|C:\\Users\\GSuser\\Desktop\\PG3_2024A\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6AECF06-E289-41B0-81D2-673B0F01C4CE}|PG3_2024A.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\murat\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_2024A\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\GSuser\\Desktop\\PG3_2024A\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\murat\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_2024A\\main.cpp",
+              "ToolTip": "C:\\Users\\GSuser\\Desktop\\PG3_2024A\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA0AAAAnAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-19T06:33:31.823Z",
               "EditorCaption": ""
